@@ -3,7 +3,7 @@
 <h3 align="center">A Computer Science student from Denmark</h3>
 
 
-- 🌱 I’m currently learning **React, Java**
+- 🌱 I’m currently learning **React**
 
 
 # 💻 Languages and Tools:
